@@ -20,7 +20,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 [v-cloak] { display: none; }
 
-html, body { margin: 0; padding: 0; background-color: #f6f6f6; text-align: center; font-family: "微软雅黑", "微軟正黑體"; height: 100%; background: url("../images/bg.jpg"); background-size: cover; background-position: center center; background-repeat: no-repeat; background-attachment: fixed; }
+html, body { margin: 0; padding: 0; background-color: #f6f6f6; text-align: center; font-family: "微软雅黑", "微軟正黑體"; height: 100%; background: url("../images/bg.jpg"); background-size: cover; background-position: center center; background-repeat: no-repeat; }
 
 a { -moz-transition: all 0.2s linear; -o-transition: all 0.2s linear; -webkit-transition: all 0.2s linear; transition: all 0.2s linear; }
 

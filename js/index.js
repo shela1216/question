@@ -29,7 +29,7 @@
         created: function() {
             var xhr = new XMLHttpRequest();
             var self = this;
-            xhr.open("GET", "https://spreadsheets.google.com/feeds/list/1YIcFqzBU3iJWXqkqkMzEk5hw8Uzs2p_yXz2D_xih1go/1/public/values?alt=json");
+            xhr.open("GET", "https://spreadsheets.google.com/feeds/list/1zMmNIMdqG1tbUrPmudvc2dGnqEvXflynI5U5-5J9WxU/1/public/values?alt=json");
             xhr.send();
             xhr.onreadystatechange = function() {
                 if (xhr.readyState == 4) {
